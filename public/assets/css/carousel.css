@@ -1,0 +1,32 @@
+.carousel-slider {
+     padding-top: 200px;
+}
+
+.slick-prev {
+     left: 8% !important;
+}
+
+.slick-prev:before {
+     color: #000 !important;
+}
+
+.slick-next {
+     right: 8% !important;
+}
+
+.slick-next:before {
+     color: #000 !important;
+}
+
+.item-slider {
+     padding-left: 16rem !important;
+     padding-top: 1rem !important;
+     margin-bottom: 5rem;
+     align-items: center;
+}
+
+.img-slider {
+     width: 30%;
+     display: block;
+     margin-left: 7.5rem;
+}
